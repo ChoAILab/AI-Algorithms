@@ -6,6 +6,6 @@
 
 ## Run Example
 ```
-$ cd Ai-Algorithms/GAN/gan
+$ cd AI-Algorithms/GAN/gan
 $ python3 gan.py
 ```
