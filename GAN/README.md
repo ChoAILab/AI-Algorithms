@@ -4,7 +4,7 @@
     $ sudo pip3 install -r requirements.txt
 
 
-#### Run Example
+## Run Example
 ```
 $ cd Ai-Algorithms/GAN/gan
 $ python3 gan.py
