@@ -1,6 +1,6 @@
 ## Installation
     $ git clone https://github.com/ChoAILab/AI-Algorithms.git
-    $ cd Ai-Algorithms/GAN/
+    $ cd AI-Algorithms/GAN/
     $ sudo pip3 install -r requirements.txt
 
 
