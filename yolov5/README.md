@@ -13,7 +13,7 @@ cd yolov5
 pip install -r requirements.txt  # install
 ```
 
-****training 및 testing 후 생성되는 runs-train(val)-exp 폴더에 결과물이 저장됨.***
+***training 및 testing 후 생성되는 runs-train(val)-exp 폴더에 결과물이 저장됨.***
 
 </details>
 
