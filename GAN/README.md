@@ -1,6 +1,6 @@
 ## Installation
     $ git clone https://github.com/ChoAILab/AI-Algorithms.git
-    $ cd PyTorch-GAN/
+    $ cd Ai-Algorithms/GAN/
     $ sudo pip3 install -r requirements.txt
 
 
