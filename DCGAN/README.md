@@ -1,11 +1,11 @@
 ## Installation
     $ git clone https://github.com/ChoAILab/AI-Algorithms.git
-    $ cd Ai-Algorithms/GAN/
+    $ cd Ai-Algorithms/DCGAN/
     $ sudo pip3 install -r requirements.txt
 
 
 ## Run Example
 ```
-$ cd Ai-Algorithms/GAN/gan
-$ python3 gan.py
+$ cd Ai-Algorithms/DCGAN/dcgan
+$ python3 dcgan.py
 ```
